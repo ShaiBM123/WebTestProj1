@@ -1,0 +1,7 @@
+{
+    "json.schemaDownload.enable": true,
+    "editor.formatOnSave": true,
+    "prettier.prettierPath": "",
+    "prettier.printWidth": 30,
+    "prettier.ignorePath": ".prettierignore"
+}
